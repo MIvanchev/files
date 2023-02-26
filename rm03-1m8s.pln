@@ -1,0 +1,213 @@
+RM03.map
+RM03
+RM03.MIS
+7
+"TeamMember0" "Arnavisca, Santiago" "[ No Designation ]" 0 arnavism.bmp Arnavisc.act avatar 0 0 0 0 0 
+"TEAM MEMBER"
+"Desert1 Light-HK MP5SD5"
+"NONE"
+"NONE"
+"Primary+"		"pw_mp5sd.wpn"		6		"9mmP(FMJ)"
+"Secondary+"		"sw_9mmsd.wpn"		4		"9mmP(FMJ)"
+"team_camo"
+3
+"desert1_L_a"
+"desert1_L_b"
+"desert1_L_c"
+3
+"light_desert1.eq"		1
+"flashbng.eq"		3
+"hbsensor.eq"		1
+
+"TeamMember1" "Haider, Karl" "[ No Designation ]" 8 haiderm.bmp Haider.act ai 1 0 0 0 0 
+"TEAM MEMBER"
+"Desert2 Medium-HK MP5SD5"
+"NONE"
+"NONE"
+"Primary+"		"pw_mp5sd.wpn"		6		"9mmP(FMJ)"
+"Secondary+"		"sw_9mmsd.wpn"		4		"9mmP(FMJ)"
+"team_camo"
+3
+"desert2_M_a"
+"desert2_M_b"
+"desert2_M_c"
+3
+"medium_desert2.eq"		1
+"flashbng.eq"		3
+"flashbng.eq"		3
+
+"TeamMember2" "Chavez, Ding" "[ No Designation ]" 4 chavezm.bmp Chavez.act ai 2 0 0 0 0 
+"TEAM MEMBER"
+"Desert2 Medium-HK MP5SD5"
+"NONE"
+"NONE"
+"Primary+"		"pw_mp5sd.wpn"		6		"9mmP(FMJ)"
+"Secondary+"		"sw_9mmsd.wpn"		4		"9mmP(FMJ)"
+"team_camo"
+3
+"desert2_M_a"
+"desert2_M_b"
+"desert2_M_c"
+3
+"medium_desert2.eq"		1
+"flashbng.eq"		3
+"flashbng.eq"		3
+
+"TeamMember3" "Loiselle, Louis" "[ No Designation ]" 12 loisellem.bmp Loiselle.act ai 2 1 0 0 0 
+"TEAM MEMBER"
+"Desert2 Medium-HK MP5SD5"
+"NONE"
+"NONE"
+"Primary+"		"pw_mp5sd.wpn"		6		"9mmP(FMJ)"
+"Secondary+"		"sw_9mmsd.wpn"		4		"9mmP(FMJ)"
+"team_camo"
+3
+"desert2_M_a"
+"desert2_M_b"
+"desert2_M_c"
+3
+"medium_desert2.eq"		1
+"flashbng.eq"		3
+"flashbng.eq"		3
+
+"TeamMember4" "Murad, Jamal" "[ No Designation ]" 16 muradm.bmp Murad.act ai 1 1 0 0 0 
+"TEAM MEMBER"
+"Desert2 Medium-HK MP5SD5"
+"NONE"
+"NONE"
+"Primary+"		"pw_mp5sd.wpn"		6		"9mmP(FMJ)"
+"Secondary+"		"sw_9mmsd.wpn"		4		"9mmP(FMJ)"
+"team_camo"
+3
+"desert2_M_a"
+"desert2_M_b"
+"desert2_M_c"
+3
+"medium_desert2.eq"		1
+"flashbng.eq"		3
+"flashbng.eq"		3
+
+"TeamMember5" "Novikov, Arkadi" "[ No Designation ]" 19 novikovm.bmp Novikov.act ai 3 0 0 0 0 
+"TEAM MEMBER"
+"Desert2 Medium-HK MP5SD5"
+"NONE"
+"NONE"
+"Primary+"		"pw_mp5sd.wpn"		6		"9mmP(FMJ)"
+"Secondary+"		"sw_9mmsd.wpn"		4		"9mmP(FMJ)"
+"team_camo"
+3
+"desert2_M_a"
+"desert2_M_b"
+"desert2_M_c"
+3
+"medium_desert2.eq"		1
+"flashbng.eq"		3
+"flashbng.eq"		3
+
+"TeamMember6" "Burke, Andrew" "[ No Designation ]" 3 burkem.bmp Burke.act ai 3 1 0 0 0 
+"TEAM MEMBER"
+"Desert2 Medium-HK MP5SD5"
+"NONE"
+"NONE"
+"Primary+"		"pw_mp5sd.wpn"		6		"9mmP(FMJ)"
+"Secondary+"		"sw_9mmsd.wpn"		4		"9mmP(FMJ)"
+"team_camo"
+3
+"desert2_M_a"
+"desert2_M_b"
+"desert2_M_c"
+3
+"medium_desert2.eq"		1
+"flashbng.eq"		3
+"flashbng.eq"		3
+
+"RM03.MIS"
+
+4
+
+0
+1
+35658.7 32987 31816.7 0
+BeginPlan
+ROE Escort
+ROE Blitz
+MoveTo 35658.7 32987 31816.7 0
+EndPlan
+
+1
+1
+35714.6 32987 31539 0
+BeginPlan
+ROE Engage
+ROE Blitz
+MoveTo 35714.6 32987 31539 0
+MoveTo 35180.4 32987 32136.3 0
+MoveTo 34605.8 32987 33203.1 1
+MoveTo 34558.5 32987 33290.9 1
+MoveTo 34155.2 33138 34039.7 0
+MoveTo 33992.4 33140.2 36051.7 0
+MoveTo 33833.5 33098.5 37504.4 0
+WaitFor 0
+MoveTo 33775.3 33039.2 37643.6 0
+ROE Recon
+MoveTo 33746 32984 37726.5 1
+MoveTo 33717.2 32957 37807.5 1
+MoveTo 33729 32957 37774.4 0
+MoveTo 33442.8 32877 37975.8 0
+MoveTo 33086.4 32877 38161.9 0
+MoveTo 32836.4 32887 38269.6 0
+MoveTo 30643.5 32977 37995.1 0
+ROE Engage
+MoveTo 30527 32977 37987 1
+MoveTo 30527 32977 37867 1
+MoveTo 30527 32977 37827 1
+MoveTo 30527 32977 37707 1
+MoveTo 30718.1 32977 37599.9 0
+MoveTo 30827 32907 37637 1
+MoveTo 30947 32907 37637 1
+MoveTo 31627 32907 37567 1
+Cover 31615.3 32867 34353.6  31678.1 32907 37624.5 1
+EndPlan
+
+2
+1
+35782.6 32987 31665.4 0
+BeginPlan
+ROE Engage
+ROE Blitz
+MoveTo 35782.6 32987 31665.4 0
+MoveTo 35130.3 32987 32268.5 0
+MoveTo 34667.2 32987 33202.3 1
+MoveTo 34622.8 32987 33291.7 1
+MoveTo 34182.9 33111.3 34178.7 0
+MoveTo 33993.3 33164.1 36220.3 0
+MoveTo 33868.3 33088 37519.2 0
+WaitFor 0
+MoveTo 33832.7 33030.2 37657.2 0
+ROE Recon
+MoveTo 33808.3 32986.3 37723.1 1
+MoveTo 33775.9 32957 37810.9 1
+MoveTo 33783.7 32977 37789.7 0
+MoveTo 32849.7 32907 38043 0
+MoveTo 32727 32907 37987 1
+MoveTo 32727 32907 37867 1
+MoveTo 32728.2 32907 37816.9 1
+MoveTo 32730.6 32907 37717.1 1
+MoveTo 32733.1 32907 37613.6 0
+ROE Engage
+Cover 30281.2 32867 37389.1  32515.2 32887 37649.9 1
+EndPlan
+
+3
+1
+35659.8 33017 31381.2 0
+BeginPlan
+ROE Engage
+ROE Blitz
+MoveTo 35659.8 33017 31381.2 0
+MoveTo 35202.2 33017 32212.2 1
+MoveTo 34038.1 33140.3 33214.6 1
+MoveTo 33962.7 33169.6 33279.4 1
+Cover 34726.3 32867 31234.1  33804.3 33199.3 33415.9 3
+EndPlan
+
