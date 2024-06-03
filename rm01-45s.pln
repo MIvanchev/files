@@ -1,0 +1,271 @@
+RM01.map
+RM01
+RM01.MIS
+8
+"TeamMember0" "Chavez, Ding" "[ No Designation ]" 4 chavezm.bmp Chavez.act avatar 0 0 0 0 0 
+"TEAM MEMBER"
+"Street1 Light-HK MP5SD5"
+"NONE"
+"NONE"
+"Primary+"		"pw_mp5sd.wpn"		6		"9mmP(FMJ)"
+"Secondary+"		"sw_9mmsd.wpn"		4		"9mmP(FMJ)"
+"team_hrt"
+3
+"street1_L_a"
+"street1_L_b"
+"street1_L_c"
+3
+"light_street1.eq"		1
+"flashbng.eq"		3
+"flashbng.eq"		3
+
+"TeamMember1" "Loiselle, Louis" "[ No Designation ]" 12 loisellem.bmp Loiselle.act ai 0 1 0 0 0 
+"TEAM MEMBER"
+"Street1 Light-HK MP5SD5"
+"NONE"
+"NONE"
+"Primary+"		"pw_mp5sd.wpn"		6		"9mmP(FMJ)"
+"Secondary+"		"sw_9mmsd.wpn"		4		"9mmP(FMJ)"
+"team_hrt"
+3
+"street1_L_a"
+"street1_L_b"
+"street1_L_c"
+3
+"light_street1.eq"		1
+"flashbng.eq"		3
+"flashbng.eq"		3
+
+"TeamMember2" "Walther, Jorg" "[ No Designation ]" 26 waltherm.bmp Walther.act ai 2 0 0 0 0 
+"TEAM MEMBER"
+"Street1 Light-HK MP5SD5"
+"NONE"
+"NONE"
+"Primary+"		"pw_mp5sd.wpn"		6		"9mmP(FMJ)"
+"Secondary+"		"sw_9mmsd.wpn"		4		"9mmP(FMJ)"
+"team_hrt"
+3
+"street1_L_a"
+"street1_L_b"
+"street1_L_c"
+3
+"light_street1.eq"		1
+"flashbng.eq"		3
+"flashbng.eq"		3
+
+"TeamMember3" "Murad, Jamal" "[ No Designation ]" 16 muradm.bmp Murad.act ai 3 1 0 0 0 
+"TEAM MEMBER"
+"Street1 Light-HK MP5SD5"
+"NONE"
+"NONE"
+"Primary+"		"pw_mp5sd.wpn"		6		"9mmP(FMJ)"
+"Secondary+"		"sw_9mmsd.wpn"		4		"9mmP(FMJ)"
+"team_hrt"
+3
+"street1_L_a"
+"street1_L_b"
+"street1_L_c"
+3
+"light_street1.eq"		1
+"flashbng.eq"		3
+"flashbng.eq"		3
+
+"TeamMember4" "Raymond, Renee" "[ No Designation ]" 24 raymondm.bmp Raymond.act ai 3 0 0 0 0 
+"TEAM MEMBER"
+"Street1 Light-HK MP5SD5"
+"NONE"
+"NONE"
+"Primary+"		"pw_mp5sd.wpn"		6		"9mmP(FMJ)"
+"Secondary+"		"sw_9mmsd.wpn"		4		"9mmP(FMJ)"
+"team_hrt"
+3
+"street1_L_a"
+"street1_L_b"
+"street1_L_c"
+3
+"light_street1.eq"		1
+"flashbng.eq"		3
+"flashbng.eq"		3
+
+"TeamMember5" "Haider, Karl" "[ No Designation ]" 8 haiderm.bmp Haider.act ai 2 1 0 0 0 
+"TEAM MEMBER"
+"Street1 Light-HK MP5SD5"
+"NONE"
+"NONE"
+"Primary+"		"pw_mp5sd.wpn"		6		"9mmP(FMJ)"
+"Secondary+"		"sw_9mmsd.wpn"		4		"9mmP(FMJ)"
+"team_hrt"
+3
+"street1_L_a"
+"street1_L_b"
+"street1_L_c"
+3
+"light_street1.eq"		1
+"flashbng.eq"		3
+"flashbng.eq"		3
+
+"TeamMember6" "Novikov, Arkadi" "[ No Designation ]" 19 novikovm.bmp Novikov.act ai 1 0 0 0 0 
+"TEAM MEMBER"
+"Street1 Light-HK MP5SD5"
+"NONE"
+"NONE"
+"Primary+"		"pw_mp5sd.wpn"		6		"9mmP(FMJ)"
+"Secondary+"		"sw_9mmsd.wpn"		4		"9mmP(FMJ)"
+"team_hrt"
+3
+"street1_L_a"
+"street1_L_b"
+"street1_L_c"
+3
+"light_street1.eq"		1
+"flashbng.eq"		3
+"flashbng.eq"		3
+
+"TeamMember7" "Bogart, Daniel" "[ No Designation ]" 2 bogartm.bmp Bogart.act ai 0 2 0 0 0 
+"TEAM MEMBER"
+"Street1 Light-Empty"
+"NONE"
+"NONE"
+"Primary+"		"none.wpn"		0		""
+"Secondary+"		"sw_9mmsd.wpn"		4		"9mmP(FMJ)"
+"team_hrt"
+3
+"street1_L_a"
+"street1_L_b"
+"street1_L_c"
+3
+"light_street1.eq"		1
+"flashbng.eq"		3
+"flashbng.eq"		3
+
+"RM01.MIS"
+
+4
+
+0
+1
+26955.1 32717 37199.1 0
+BeginPlan
+ROE Engage
+ROE Blitz
+MoveTo 26955.1 32717 37199.1 0
+MoveTo 27557 32897 37977 1
+MoveTo 28034.9 32897 38315 0
+MoveTo 28168.8 32897 38352.2 1
+MoveTo 28265.2 32897 38378.9 1
+MoveTo 28311.2 32897 38391.7 0
+MoveTo 28421.1 32897 38452.4 0
+MoveTo 28501.9 32897 38512 0
+MoveTo 28710.7 32897 38599.5 0
+MoveTo 28767.3 32897 38606.1 1
+MoveTo 28866.7 32897 38617.6 1
+MoveTo 30157 32897 38767 1
+MoveTo 30277 32897 38767 1
+MoveTo 30757 32897 39307 1
+MoveTo 30757 32957 39427 1
+MoveTo 30754.4 33056.5 39606.4 0
+MoveTo 30754.4 33217 39836.1 1
+MoveTo 30754.4 33257 39917.9 1
+MoveTo 30754.4 33257 39890.9 0
+MoveTo 30957 33257 39937 1
+MoveTo 30959 33257 39919.9 1
+MoveTo 30969.1 33297 39834.1 1
+MoveTo 31008.4 33577 39409.8 1
+MoveTo 31016.3 33597 39324.3 1
+MoveTo 31017 33597 39317 0
+MoveTo 30677 33597 38767 1
+MoveTo 30557 33597 38767 1
+MoveTo 30400.1 33597 39673.8 0
+MoveTo 30395.1 33587 40925.2 0
+MoveTo 30359.5 33587 41008.8 0
+Cover 29578.7 32767 36756.7  29959.9 33577 41024.8 3
+EndPlan
+
+1
+1
+34888.8 33687 30457.3 0
+BeginPlan
+ROE Escort
+ROE Blitz
+MoveTo 34888.8 33687 30457.3 0
+MoveTo 34777 33027 30357 1
+MoveTo 32483.8 33027 30512.7 0
+MoveTo 31951.9 33027 30596.5 0
+MoveTo 31430.5 32777 30931.9 0
+MoveTo 31396.8 32887 30977.3 1
+MoveTo 31337.8 32887 31056.7 1
+MoveTo 31270.8 32817 31146.9 0
+MoveTo 31077 32817 31237 1
+MoveTo 30957 32817 31237 1
+MoveTo 30872.8 32817 31549.7 0
+MoveTo 30665 32807 32206.8 0
+MoveTo 30686.6 32787 32204.3 1
+MoveTo 30587.4 32787 32215.7 1
+Cover 29061.2 32767 31965.3  30172.6 32787 32263.4 3
+EndPlan
+
+2
+1
+35187 33687 30438.7 0
+BeginPlan
+ROE Engage
+ROE Blitz
+MoveTo 35187 33687 30438.7 0
+MoveTo 34617 33687 30357 1
+MoveTo 32869.2 33687 30475.5 0
+MoveTo 31976.2 33687 30602.9 0
+MoveTo 31331 33687 30940.3 0
+MoveTo 31377 33077 30934.5 1
+MoveTo 31377 33117 31109.5 1
+MoveTo 31077 33117 31237 1
+MoveTo 30957 33117 31237 1
+MoveTo 30939.9 33117 31434.3 0
+MoveTo 30752.6 32847 32438.9 1
+MoveTo 30734.6 32847 32535.1 1
+MoveTo 30697 32847 32737 1
+MoveTo 30577 32847 32737 1
+MoveTo 30197 32847 33347 1
+MoveTo 30077 32847 33347 1
+MoveTo 29731.2 32847 33551.7 0
+MoveTo 29327 32871.4 33367 1
+MoveTo 28998.3 32847 32946 0
+MoveTo 28867 32847 32847 1
+Cover 30167 33267 33917  28737.8 32847 32516.7 3
+EndPlan
+
+3
+1
+35066.2 33187 30510.8 0
+BeginPlan
+ROE Engage
+ROE Blitz
+MoveTo 35066.2 33187 30510.8 0
+MoveTo 34777 33187 30357 1
+MoveTo 34617 33187 30357 1
+MoveTo 34406 33187 30910.2 0
+MoveTo 34415.8 33187 30967.7 1
+MoveTo 34432.6 33297 31066.3 1
+MoveTo 34620.4 33227 32166.7 0
+MoveTo 34366.1 33267 32182.6 0
+MoveTo 34186.1 33287 32215.6 0
+MoveTo 33677 33177 32317 1
+MoveTo 33661.5 33177 32385.5 0
+MoveTo 33557 33177 32467 1
+MoveTo 33278.9 33137 33318.9 0
+MoveTo 31530 33227 33268.8 0
+MoveTo 31067 33227 33262.1 1
+MoveTo 30967 33227 33260.6 1
+MoveTo 30794.2 33227 33258.2 0
+MoveTo 30697 33227 32737 1
+MoveTo 30577 33227 32737 1
+MoveTo 30549.6 33227 32797.1 0
+MoveTo 30197 33227 33347 1
+MoveTo 30077 33227 33347 1
+MoveTo 29988.1 33227 33340.4 0
+MoveTo 30057 33107 33677 1
+MoveTo 30177 33107 33677 1
+MoveTo 30199.8 33107 33632.9 0
+MoveTo 30407.3 33107 33690.3 0
+Cover 30065.2 32767 34415.4  30470.3 33107 33749.5 3
+EndPlan
+
